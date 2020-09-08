@@ -231,7 +231,7 @@
   font-size: 36px;
   font-weight: normal;
   text-decoration: none;
-  color: #2f80ed;
+  color: #000000;
   position: absolute;
   top: 50%;
   right: 48px;
@@ -366,7 +366,7 @@
 
 .footer__link {
   text-decoration: none;
-  color: #2f80ed;
+  color: white;
 
 }
 .footer__social-icon {
