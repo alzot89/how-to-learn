@@ -1,0 +1,18 @@
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  min-height: 100vh;
+  min-width: 100vh;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
