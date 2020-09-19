@@ -1,1 +1,5 @@
-.video
+.video__iframe {
+  height: 316px;
+  border: 0;
+  /*свойство border: 0; почему-то не сработало, поэтому я оставил frameborder="0" в html*/
+}
