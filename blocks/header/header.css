@@ -13,6 +13,6 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* выше установили ограничения для секции */
+  overflow: hidden;
 }
 
