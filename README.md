@@ -15,3 +15,5 @@ HTML5
 CSSv91
 
 Айфремы не будут отображаться в браузерах IE11, Edge17, Opera mini.
+
+Ссылка https://alzot89.github.io/how-to-learn/
